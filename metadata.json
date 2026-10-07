@@ -1,0 +1,6 @@
+{
+  "name": "PIPO",
+  "description": "Aprender brincando — Quiz educacional gamificado para crianças de 6 a 10 anos com o mascote Pipo, XP, conquistas e IA Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
